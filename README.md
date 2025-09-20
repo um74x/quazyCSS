@@ -4,5 +4,5 @@ my excuse for learning css
 <hr>
 <h2>key</h2>
 qt - text <br>
-qXh - hover
+qXh - hover <br>
 qe - element/background
