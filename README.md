@@ -6,3 +6,5 @@ my excuse for learning css
 qt - text <br>
 qXh - hover <br>
 qe - element/background
+<hr>
+<a href="../quazy.css" target=_blank> code</a>
