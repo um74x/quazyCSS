@@ -7,5 +7,4 @@ qt - text <br>
 qXh - hover <br>
 qe - element/background
 <hr>
-<a href="https://um74x.github.io/quazyCSS/quazy.css" target="_blank">copy & paste from here (recommended), or use <br> <div style="display:block"><link rel="stylesheet" href="https://um74x.github.io/quazyCSS/quazy.css"</a></div>
-
+<a href="https://um74x.github.io/quazyCSS/quazy.css" target="_blank">copy & paste from here (recommended)</a>, or create a <link> tag with 'um74x.github.io/quazyCSS/quazy.css" in it
